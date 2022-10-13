@@ -1,0 +1,115 @@
+Date: 26/9/2022
+Time: 13:2
+Phone Number: +573146531188
+Message: Te amo
+--------------------
+Date: 26/9/2022
+Time: 13:6
+Phone Number: +573146531188
+Message: Te amo
+--------------------
+Date: 26/9/2022
+Time: 13:59
+Phone Number: +573146531188
+Message: Te amo
+--------------------
+Date: 26/9/2022
+Time: 14:3
+Phone Number: +573146531188
+Message: Te amo
+--------------------
+Date: 26/9/2022
+Time: 14:5
+Phone Number: +573146531188
+Message: Te amo
+--------------------
+Date: 26/9/2022
+Time: 14:9
+Phone Number: +573146531188
+Message: Te amo mucho
+--------------------
+Date: 26/9/2022
+Time: 14:55
+Phone Number: +573146531188
+Message: Te amo mucho
+--------------------
+Date: 26/9/2022
+Time: 15:2
+Phone Number: +573146531188
+Message: Te amo mucho
+--------------------
+Date: 26/9/2022
+Time: 17:21
+Phone Number: +573148323042
+Message: Prueba de envio de mensajes de Whatsapp desde python con archivo de excel.
+--------------------
+Date: 26/9/2022
+Time: 17:22
+Phone Number: +573146531188
+Message: Prueba de envio de mensajes de Whatsapp desde python con archivo de excel.
+--------------------
+Date: 26/9/2022
+Time: 17:32
+Phone Number: +573148323042
+Message: Prueba de envio de mensajes de Whatsapp desde python con archivo de excel.
+--------------------
+Date: 26/9/2022
+Time: 17:37
+Phone Number: +573148323042
+Message: Prueba de envio de mensajes de Whatsapp desde python con archivo de excel.
+--------------------
+Date: 26/9/2022
+Time: 17:46
+Phone Number: +573148323042
+Message: Prueba de envio de mensajes de Whatsapp desde python con archivo de excel.
+--------------------
+Date: 26/9/2022
+Time: 17:47
+Phone Number: +573146531188
+Message: Prueba de envio de mensajes de Whatsapp desde python con archivo de excel.
+--------------------
+Date: 26/9/2022
+Time: 17:52
+Phone Number: +573148323042
+Message: Prueba de envio de mensajes de Whatsapp desde python con archivo de excel.
+--------------------
+Date: 26/9/2022
+Time: 17:53
+Phone Number: +573146531188
+Message: Prueba de envio de mensajes de Whatsapp desde python con archivo de excel.
+--------------------
+Date: 26/9/2022
+Time: 17:54
+Phone Number: +573043899886
+Message: Prueba de envio de mensajes de Whatsapp desde python con archivo de excel.
+--------------------
+Date: 26/9/2022
+Time: 18:0
+Phone Number: +573043899886
+Message: Prueba de envio de mensajes de Whatsapp desde python con archivo de excel.
+--------------------
+Date: 26/9/2022
+Time: 18:2
+Phone Number: +573043899886
+Message: Prueba de envio de mensajes de Whatsapp desde python con archivo de excel.
+--------------------
+Date: 26/9/2022
+Time: 18:9
+Phone Number: +573043899896
+Message: Prueba de envio de mensajes de Whatsapp desde python con archivo de excel.
+--------------------
+Date: 26/9/2022
+Time: 18:13
+Phone Number: +573043899896
+Message: Prueba de envio de mensajes de Whatsapp desde python con archivo de excel.
+--------------------
+Date: 26/9/2022
+Time: 18:14
+Phone Number: +573148323042
+Message: Prueba de envio de mensajes de Whatsapp desde python con archivo de excel.
+--------------------
+Date: 26/9/2022
+Time: 18:15
+Phone Number: +573146531188
+Message: Prueba de envio de mensajes de Whatsapp desde python con archivo de excel.
+--------------------

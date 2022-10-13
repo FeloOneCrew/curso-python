@@ -1,0 +1,54 @@
+('C:\\workspace\\curso-python\\Practicas\\Generador '
+ 'Contraseñas\\build\\generador-Passwords\\generador-Passwords.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0,
+  'SPLASH': 1},
+ [('PYZ-00.pyz',
+   'C:\\workspace\\curso-python\\Practicas\\Generador '
+   'Contraseñas\\build\\generador-Passwords\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct', 'C:\\Python\\Python39\\lib\\struct.pyo', 'PYMODULE'),
+  ('pyimod01_os_path',
+   'C:\\workspace\\curso-python\\Practicas\\Generador '
+   'Contraseñas\\env\\lib\\site-packages\\PyInstaller\\loader\\pyimod01_os_path.pyc',
+   'PYMODULE'),
+  ('pyimod02_archive',
+   'C:\\workspace\\curso-python\\Practicas\\Generador '
+   'Contraseñas\\env\\lib\\site-packages\\PyInstaller\\loader\\pyimod02_archive.pyc',
+   'PYMODULE'),
+  ('pyimod03_importers',
+   'C:\\workspace\\curso-python\\Practicas\\Generador '
+   'Contraseñas\\env\\lib\\site-packages\\PyInstaller\\loader\\pyimod03_importers.pyc',
+   'PYMODULE'),
+  ('pyimod04_ctypes',
+   'C:\\workspace\\curso-python\\Practicas\\Generador '
+   'Contraseñas\\env\\lib\\site-packages\\PyInstaller\\loader\\pyimod04_ctypes.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\workspace\\curso-python\\Practicas\\Generador '
+   'Contraseñas\\env\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_subprocess',
+   'C:\\workspace\\curso-python\\Practicas\\Generador '
+   'Contraseñas\\env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_subprocess.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'C:\\workspace\\curso-python\\Practicas\\Generador '
+   'Contraseñas\\env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('generador-Passwords',
+   'C:\\workspace\\curso-python\\Practicas\\Generador '
+   'Contraseñas\\generador-Passwords.py',
+   'PYSOURCE')],
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)

@@ -1,0 +1,23 @@
+---- Para crear un ambiente virtual ---- 
+- Se habre el Cmder
+- Pongo la ruta donde va a estar el proyecyo en Cmder.
+y ya despues pego la siguiente linea de codigo:
+
+py -m venv env
+
+------Actualizar el PIP-----
+ py -m pip install --upgrade pip
+
+---- AGREGAR PAQUETES O LIBRERIAS ----
+
+pip install pylint
+pip install autopep8
+
+---- VER LAS LIBRERIAS QUE TIENE ACTUALMENTE EL PIP ---
+
+pip list
+
+--- ACTIVAR O DESACTIVAR EL AMBIENTE VIRTUAL ---
+
+env\Scripts\active.bat 
+env\Scripts\deactive.bat
